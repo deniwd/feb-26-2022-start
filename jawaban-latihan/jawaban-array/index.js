@@ -58,46 +58,6 @@ console.log(" ");
  * 
 */
 
-
-// Test 1
-
-// var fruits = ["cherry", "blueberry", "avocado", "apple", "cranberry"];
-// var tempA = [];
-// var tempB = [];
-// var tempC = [];
-// var str = "";
-
-// for (var  i = 0; i < fruits.length; i++) {
-//     for (var j = 0; j < fruits.length; j++) {
-//         str = fruits[j];
-//         var res = str.substring(0, 1);
-//         switch (res) {
-//             case "a":
-//                tempA.push(str);
-//                 str = "";
-//                 break;
-//             case "b":
-//                 tempB.push(str);
-//                 str = "";   
-//                 break;
-//             case "c":
-//                tempC.push(str);
-//                 str = "";   
-//                 break;
-//             default:
-//                 str = "";
-// 
-//            }
-//        }
-// }
-// console.log(" ");
-// console.log(tempA);
-// console.log(tempB);
-// console.log(tempC);
-// console.log(" ");
-
-// Test 2
-
 var fruits = ["cherry", "blueberry", "avocado", "apple", "cranberry"];
 var tempA = [];
 var tempB = [];
